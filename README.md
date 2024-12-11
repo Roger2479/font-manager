@@ -1,4 +1,4 @@
-|[English](README.md)|[Română](README.ro.md)|
+|[ESPAÑOL](README.md)|[Română](README.ro.md)|
 |--------------------|----------------------|
 
 # Font Manager <img src="help/C/media/com.github.FontManager.FontManager-48.png" align="right">
